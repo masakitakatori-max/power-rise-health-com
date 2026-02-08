@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://power-rise-health.com/sitemap.xml
